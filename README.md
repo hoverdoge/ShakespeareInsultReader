@@ -1,5 +1,5 @@
 # Shakespeare Insult Reader
-Speaks and prints to the console a random combination of words to form a Shakespearean insult. 125,000 unique combinations
+Speaks and prints to the console a random combination of words to form a Shakespearean insult with 125,000 unique combinations.
 
 Text-to-speech from Google's Speech Synthesis (developers.google.com/web/updates/2014/01/Web-apps-that-talk-Introduction-to-the-Speech-Synthesis-API)
 
